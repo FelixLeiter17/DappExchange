@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
-    "apexcharts": "3.17.1",
+    "apexcharts": "3.24.0",
     "babel": "^6.23.0",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
