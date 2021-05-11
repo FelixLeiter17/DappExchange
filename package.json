@@ -22,7 +22,7 @@
     "dotenv": "8.2.0",
     "install": "^0.13.0",
     "jquery": "^1.12.4",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "moment": "2.24.0",
     "openzeppelin-solidity": "2.5.0",
     "react": "16.13.1",
